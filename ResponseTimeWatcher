@@ -1,0 +1,23 @@
+
+---
+
+### **2. 25_ResponseTimeWatcher**  
+**Description:**  
+A lightweight script to ping URLs and log response time and status.
+
+#### **README.md**
+```markdown
+# ResponseTimeWatcher - API Ping Utility
+
+ResponseTimeWatcher checks the latency and HTTP status of one or more endpoints and logs the result.
+
+## Features
+- Multi-URL support  
+- Timeout handling  
+- Clean console logging  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_ResponseTimeWatcher.git
+cd 25_ResponseTimeWatcher
+python monitor.py
