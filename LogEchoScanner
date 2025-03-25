@@ -1,0 +1,23 @@
+
+---
+
+### **3. 25_LogEchoScanner**  
+**Description:**  
+A command-line tool that scans logs and highlights repeated error lines.
+
+#### **README.md**
+```markdown
+# LogEchoScanner - Pattern-Finding Log Parser
+
+LogEchoScanner finds repetitive entries and key error indicators in long log files.
+
+## Features
+- Highlights frequent lines  
+- Simple summary view  
+- Works with rotated logs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_LogEchoScanner.git
+cd 25_LogEchoScanner
+python analyze.py /path/to/logfile.log
