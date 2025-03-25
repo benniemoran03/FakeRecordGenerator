@@ -1,0 +1,23 @@
+
+---
+
+### **4. 25_LiveGraphPulse**  
+**Description:**  
+A real-time data graphing script using Matplotlib to render incoming numbers.
+
+#### **README.md**
+```markdown
+# LiveGraphPulse - Real-Time Data Plotter
+
+LiveGraphPulse is perfect for watching a live numeric stream turn into a smooth, animated line graph.
+
+## Features
+- Real-time graphing  
+- Customizable window size  
+- Pause/play support  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_LiveGraphPulse.git
+cd 25_LiveGraphPulse
+python visualize.py
